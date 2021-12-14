@@ -6,4 +6,5 @@ Needs 1 `.env` file and [Geocoding API Key](https://console.cloud.google.com/) t
 - Firebase apps
 - React & libraries
 
-
+## Author 
+- Code belongs to Brad Traversy
