@@ -8,4 +8,4 @@ Needs 1 `.env` file and [Geocoding API Key](https://console.cloud.google.com/) t
 - Vercel Account
 
 ## Author 
-- Idea Brad Traversy team, coded by Ulan
+- Brad Traversy team, coded by Ulan
